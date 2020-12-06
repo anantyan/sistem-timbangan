@@ -148,7 +148,7 @@
 /******/ 			return checkDeferredModules();
 /******/ 		}
 /******/ 		
-/******/ 		var chunkLoadingGlobal = self["webpackChunkwebpack_boilerplate"] = self["webpackChunkwebpack_boilerplate"] || [];
+/******/ 		var chunkLoadingGlobal = self["webpackChunkSistem_Timbangan"] = self["webpackChunkSistem_Timbangan"] || [];
 /******/ 		var parentChunkLoadingFunction = chunkLoadingGlobal.push.bind(chunkLoadingGlobal);
 /******/ 		chunkLoadingGlobal.push = webpackJsonpCallback;
 /******/ 	})();
