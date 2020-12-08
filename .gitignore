@@ -1,8 +1,8 @@
-.babelrc
 node_modules/
 src/
 config/
 public/
 postcss.config.js
+babel.config.json
 package-lock.json
 package.json
